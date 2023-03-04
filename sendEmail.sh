@@ -2,9 +2,11 @@
 
 # User input
 #read -p "Enter your email : " sender
-#to run in task scheduler
 #>cmd /c ""C:\Program Files\Git\bin\bash.exe" --login -i -- C:\Users\ththc\Desktop\sideproject\sendEmail.sh"
+#to run in task scheduler
+#program/script
 #"C:\Program Files\Git\bin\bash.exe"
+#Add arguments
 #--login -i -- C:\Users\ththc\Desktop\sideproject\sendEmail.sh
 #max admin previlege
 
